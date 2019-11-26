@@ -1,0 +1,21 @@
+* {
+  color: black;
+}
+
+#myGreeting {
+  color: rebeccapurple;
+}
+
+img {
+  width: 10em; 
+}
+
+#imageBox {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+#mainContentTitle {
+  display: inline-block;
+}
